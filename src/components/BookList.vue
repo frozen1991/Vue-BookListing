@@ -28,10 +28,14 @@ h1, h2{
   font-weight: normal;
 }
 
-li{
+ul {
   list-style-type: none;
   padding:0;
-  display:block;
+
+}
+
+li{
+ display:block;
   margin:0 10px;
 }
 </style>
