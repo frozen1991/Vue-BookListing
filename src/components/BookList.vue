@@ -28,7 +28,7 @@ h1, h2{
   font-weight: normal;
 }
 
-ul{
+li{
   list-style-type: none;
   padding:0;
   display:block;
